@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="boot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/boot/demo-0.0.1-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/boot/themis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

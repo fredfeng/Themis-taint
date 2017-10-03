@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spring-security">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/spring-security/spring-security-core-5.0.0.BUILD-SNAPSHOT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/spring-security/themis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="crypto">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/crypto/themis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/crypto/commons-crypto-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

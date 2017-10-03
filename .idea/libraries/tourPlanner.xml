@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tourPlanner">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/tourPlanner/deps.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/tourPlanner/tour_demo.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

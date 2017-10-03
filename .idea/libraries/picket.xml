@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="picket">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/picket/jbosssx-3.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/picket/jboss-security-spi-3.0.0.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/picket/themis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/picket/picketbox-bare-3.0.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

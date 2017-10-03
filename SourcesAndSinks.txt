@@ -1,0 +1,17 @@
+% Sources and sinks for Themis
+<java.io.PrintWriter: java.io.PrintWriter append(java.lang.CharSequence)> -> _SINK_
+<com.graphhopper.http.GHBaseServlet: java.lang.String[] getParams(javax.servlet.http.HttpServletRequest,java.lang.String)> -> _SOURCE_
+<com.graphhopper.http.TourServlet: java.lang.String mySecret> -> _SOURCE_
+<org.pac4j.core.credentials.UsernamePasswordCredentials: java.lang.String password> -> _SOURCE_
+<org.pac4j.core.credentials.UsernamePasswordCredentials: java.lang.String username> -> _SOURCE_
+<org.eclipse.jetty.util.security.Credential$Crypt: java.lang.String crypt(java.lang.String,java.lang.String)> -> _SOURCE_
+<org.eclipse.jetty.util.security.Credential$MD5: byte[] _digest> -> _SOURCE_
+<org.apache.catalina.realm.TestRealmBase: java.lang.String PWD> -> _SOURCE_
+<com.jdriven.stateless.security: java.lang.String getPassword()> -> _SOURCE_
+<com.orientechnologies.orient.core.security.OSecurityManagerTest: java.lang.String password> -> _SOURCE_
+<org.jboss.test.auth.spi.UsernamePasswordLoginModuleTestCase: java.lang.String password> -> _SOURCE_
+<MyTest: java.lang.String password> -> _SOURCE_
+<org.openmrs.util.SecurityTest: java.lang.String password> -> _SOURCE_
+<org.apache.shiro.realm.jdbc.JDBCRealmTest: java.lang.String plainTextPassword> -> _SOURCE_
+<org.apache.shiro.realm.jdbc.JDBCRealmTest: java.lang.String salt>  -> _SOURCE_
+<org.apache.shiro.realm.jdbc.JDBCRealmTest: java.lang.String username>  -> _SOURCE_

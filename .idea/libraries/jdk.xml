@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/jdk/rt7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/exp2-ccs17/jdk/themis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
