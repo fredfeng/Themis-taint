@@ -9,11 +9,11 @@ Soot-based taint analyzer for Java bytecode
 	- lib: libraries
 
 # Usage
-./run.sh $1 $2 $3
+    - ./run.sh $1 $2 $3
     - $1: target .jar file that needs to be analyzed
     - $2: dependencies of the project
     - $3: entry point(s)
 
 # Example (CVE-2017-9735 detected by our tool)
-./run.sh projects/jetty/themis.jar projects/jetty/jetty-util-9.4.5-SNAPSHOT.jar projects/jetty/entry.txt
+    - ./run.sh projects/jetty/themis.jar projects/jetty/jetty-util-9.4.5-SNAPSHOT.jar projects/jetty/entry.txt
     - Note that themis.jar contains both the bytecode of the original .jar file as well as the test cases as the entries of the tool.
