@@ -1,0 +1,1 @@
+<org.pac4j.sql.profile.service.DbProfileServiceTests: org.pac4j.core.credentials.UsernamePasswordCredentials login(java.lang.String,java.lang.String,java.lang.String)>

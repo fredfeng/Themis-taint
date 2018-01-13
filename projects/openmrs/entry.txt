@@ -1,0 +1,1 @@
+<org.openmrs.util.SecurityTest: void hashMatches_shouldMatchStringsHashedWithSha1Algorithm()>

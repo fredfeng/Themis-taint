@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: yufeng
+Start-Class: com.jdriven.stateless.security.StatelessAuthentication
+Implementation-Vendor-Id: org.test
+Spring-Boot-Version: 1.2.5.RELEASE
+Created-By: Apache Maven 3.5.0
+Build-Jdk: 1.8.0_131
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: org.springframework.boot.loader.JarLauncher
+
